@@ -1,0 +1,14 @@
+## Git Commands Log
+git clone <repo-url>
+cd <repo-name>
+git add <file>
+git commit -m 'Commit message'
+git push origin main
+git pull origin main
+mkdir Project1
+touch Project1/text.txt
+
+git push origin main
+git add Project-1/text.txt
+git commit -m 'Add Project1 with text file of commands'
+git push origin main
